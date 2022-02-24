@@ -1,0 +1,12 @@
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\bin\EmployeeService.dll.config
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\bin\EmployeeService.dll
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\bin\EmployeeService.pdb
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\bin\EntityFramework.dll
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.dll
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\bin\EntityFramework.xml
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.xml
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CopyComplete
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
+C:\Users\haduy\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.AssemblyReference.cache
