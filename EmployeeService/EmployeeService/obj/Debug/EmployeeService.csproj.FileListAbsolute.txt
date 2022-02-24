@@ -10,3 +10,17 @@ C:\Users\haduy\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeSe
 C:\Users\haduy\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
 C:\Users\haduy\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
 C:\Users\haduy\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.AssemblyReference.cache
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\bin\EmployeeService.dll.config
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\bin\EmployeeService.dll
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\bin\EmployeeService.pdb
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\bin\EntityFramework.dll
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.dll
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\bin\EntityFramework.xml
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.xml
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.AssemblyReference.cache
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CopyComplete
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\obj\Debug\EmployeeService.Migrations.add.resources
+C:\Users\haduy\source\repos\ThiEAP\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.GenerateResource.cache

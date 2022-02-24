@@ -17,7 +17,8 @@ namespace EmployeeService
         Employee Save(Employee Employee);
         [OperationContract]
 
-        List<Employee> GetList();
+        List<Employee> GetList(string department);
+              
     }
 
 

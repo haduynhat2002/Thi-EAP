@@ -76,6 +76,10 @@
   <ItemGroup>
     <Compile Include="Data\MyDbContext.cs" />
     <Compile Include="Entity\Employee.cs" />
+    <Compile Include="Migrations\202202240419302_add.cs" />
+    <Compile Include="Migrations\202202240419302_add.Designer.cs">
+      <DependentUpon>202202240419302_add.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Service1.svc.cs">
       <DependentUpon>Service1.svc</DependentUpon>
@@ -94,6 +98,11 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202202240419302_add.resx">
+      <DependentUpon>202202240419302_add.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

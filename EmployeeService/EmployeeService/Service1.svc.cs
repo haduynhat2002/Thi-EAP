@@ -21,11 +21,16 @@ namespace EmployeeService
             dbContext.SaveChanges();
             return employee;
         }
-        public List<Employee> GetList()
+        public List<Employee> GetList(string department)
         {
-            return dbContext.Employees.ToList();
-        }
+            var Employee = from s in dbContext.Employees
+                           select s;
+            if (!String.IsNullOrEmpty(department))
+            {
+                Employee = Employee.Where(s => s.Department.Contains(department));
+            }
+            return Employee.ToList();
+        }     
 
-      
     }
 }

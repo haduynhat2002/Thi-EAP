@@ -117,10 +117,10 @@ namespace EmployeeClient.ServiceReference1 {
         System.Threading.Tasks.Task<EmployeeClient.ServiceReference1.Employee> SaveAsync(EmployeeClient.ServiceReference1.Employee Employee);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetList", ReplyAction="http://tempuri.org/IService1/GetListResponse")]
-        EmployeeClient.ServiceReference1.Employee[] GetList();
+        EmployeeClient.ServiceReference1.Employee[] GetList(string department);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetList", ReplyAction="http://tempuri.org/IService1/GetListResponse")]
-        System.Threading.Tasks.Task<EmployeeClient.ServiceReference1.Employee[]> GetListAsync();
+        System.Threading.Tasks.Task<EmployeeClient.ServiceReference1.Employee[]> GetListAsync(string department);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -158,12 +158,12 @@ namespace EmployeeClient.ServiceReference1 {
             return base.Channel.SaveAsync(Employee);
         }
         
-        public EmployeeClient.ServiceReference1.Employee[] GetList() {
-            return base.Channel.GetList();
+        public EmployeeClient.ServiceReference1.Employee[] GetList(string department) {
+            return base.Channel.GetList(department);
         }
         
-        public System.Threading.Tasks.Task<EmployeeClient.ServiceReference1.Employee[]> GetListAsync() {
-            return base.Channel.GetListAsync();
+        public System.Threading.Tasks.Task<EmployeeClient.ServiceReference1.Employee[]> GetListAsync(string department) {
+            return base.Channel.GetListAsync(department);
         }
     }
 }

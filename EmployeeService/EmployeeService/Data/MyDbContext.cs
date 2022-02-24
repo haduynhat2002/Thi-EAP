@@ -9,7 +9,7 @@ namespace EmployeeService.Data
 {
     public class MyDbContext : DbContext
     {
-        public MyDbContext() : base("name=MyConnectionString")
+        public MyDbContext() : base("name=HelloT2009MUpdatedContext")
         {
         }
         public DbSet<Employee> Employees { get; set; }
